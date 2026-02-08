@@ -2,9 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=28&pause=1000&color=6793F7&center=true&vCenter=true&width=435&lines=Welcome+to+my+digital+space!;I'm+Rasya+Rayhan;Full-Stack+Developer;Problem+Solver;Tech+Enthusiast)](https://git.io/typing-svg)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=rasyagtps&color=6793F7&style=flat-square)](https://github.com/rasyagtps)
-[![GitHub followers](https://img.shields.io/github/followers/rasyagtps?style=flat-square&color=6793F7)](https://github.com/rasyagtps?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/rasyagtps?style=flat-square&color=6793F7)](https://github.com/rasyagtps?tab=stars)
+[![Profile Views](https://komarev.com/ghpvc/?username=rasyarayhandev&color=6793F7&style=flat-square)](https://github.com/rasyarayhandev)
+[![GitHub followers](https://img.shields.io/github/followers/rasyarayhandev?style=flat-square&color=6793F7)](https://github.com/rasyarayhandev?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/rasyarayhandev?style=flat-square&color=6793F7)](https://github.com/rasyarayhandev?tab=stars)
 
 </div>
 
@@ -72,15 +72,15 @@ const rasya = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rasyagtps&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=15&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rasyarayhandev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=15&hide_border=true&bg_color=0D1117"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rasyagtps&layout=compact&langs_count=7&theme=tokyonight&border_radius=15&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rasyarayhandev&layout=compact&langs_count=7&theme=tokyonight&border_radius=15&hide_border=true&bg_color=0D1117"/>
 
 ### 🌟 Contribution Highlights
-[![Rasya's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rasyagtps&theme=tokyo-night&hide_border=true&bg_color=0D1117)](https://github.com/rasyagtps)
+[![Rasya's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rasyarayhandev&theme=tokyo-night&hide_border=true&bg_color=0D1117)](https://github.com/rasyarayhandev)
 
 ### ⚡ Streak Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rasyagtps&theme=tokyonight&hide_border=true&background=0D1117)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rasyarayhandev&theme=tokyonight&hide_border=true&background=0D1117)](https://git.io/streak-stats)
 
 </div>
 
@@ -90,7 +90,7 @@ const rasya = {
 
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://id.linkedin.com/in/rasya-rayhan-saifullah-4494b7352)
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rasya23darkness@gmail.com)
-[![GitHub](https://img.shields.io/badge/-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rasyagtps)
+[![GitHub](https://img.shields.io/badge/-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rasyarayhandev)
 [![Portfolio](https://img.shields.io/badge/-PORTFOLIO-000000?style=for-the-badge&logo=react&logoColor=white)](https://portofolio-rasya-sija.vercel.app/)
 
 </div>
