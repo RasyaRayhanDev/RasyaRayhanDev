@@ -20,8 +20,9 @@
 const rasya = {
     role: "Full-Stack Developer",
     code: ["JavaScript", "Go", "PHP", "Python", "C", "C#", "TypeScript"],
-    frontend: ["React", "Next.js", "Vue", "Tailwind CSS", "HTML", "CSS", "Bootstrap"],
-    backend: ["Node.js", "NestJS"],
+    frontend: ["React", "Next.js", "Vue", "Nuxt.js", "Tailwind CSS", "HTML", "CSS", "Bootstrap"],
+    backend: ["Node.js", "NestJS", "Laravel", "Django", "FastAPI", "Gin", "ASP.NET Core"],
+    orm: ["Prisma"],
     tools: ["VS Code", "Git", "Docker", "MySQL"],
     architecture: ["MVC", "RESTful APIs", "Microservices"],
     currentFocus: "Building scalable web applications",
@@ -55,6 +56,7 @@ const rasya = {
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -63,6 +65,14 @@ const rasya = {
 ### Backend Development
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Gin](https://img.shields.io/badge/-Gin-00ACD7?style=for-the-badge&logo=gin&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/-ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+### ORM
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
 ### Development Tools
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
