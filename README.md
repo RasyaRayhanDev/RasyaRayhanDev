@@ -70,11 +70,20 @@ const rasya = {
 
 ## 📊 GitHub Analytics
 
+<!--
+  Catatan: instance resmi github-readme-stats.vercel.app sering overload/down
+  karena dipakai bersama ribuan profil lain. Section di bawah pakai mirror
+  komunitas "-fast" yang lebih stabil, ditambah &cache_seconds=86400 supaya
+  gambar diserve dari cache dan lebih kecil kemungkinan kena "not found".
+  Kalau suatu saat mirror ini ikut down, ganti balik ke
+  github-readme-stats.vercel.app atau self-host instance Vercel sendiri.
+-->
+
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rasyarayhandev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=15&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=rasyarayhandev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=15&hide_border=true&bg_color=0D1117&cache_seconds=86400"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rasyarayhandev&layout=compact&langs_count=7&theme=tokyonight&border_radius=15&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=rasyarayhandev&layout=compact&langs_count=7&theme=tokyonight&border_radius=15&hide_border=true&bg_color=0D1117&cache_seconds=86400"/>
 
 ### 🌟 Contribution Highlights
 [![Rasya's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rasyarayhandev&theme=tokyo-night&hide_border=true&bg_color=0D1117)](https://github.com/rasyarayhandev)
