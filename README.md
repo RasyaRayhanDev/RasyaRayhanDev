@@ -23,7 +23,10 @@ const rasya = {
     frontend: ["React", "Next.js", "Vue", "Nuxt.js", "Tailwind CSS", "HTML", "CSS", "Bootstrap"],
     backend: ["Node.js", "NestJS", "Laravel", "Django", "FastAPI", "Gin", "ASP.NET Core"],
     orm: ["Prisma"],
-    tools: ["VS Code", "Git", "Docker", "MySQL"],
+    database: ["MySQL", "PostgreSQL", "MongoDB", "Redis"],
+    testing: ["Jest", "Postman"],
+    cloud: ["Vercel", "AWS"],
+    tools: ["VS Code", "Git", "Docker"],
     architecture: ["MVC", "RESTful APIs", "Microservices"],
     currentFocus: "Building scalable web applications",
     funFact: "I turn caffeine into code ☕"
@@ -74,8 +77,21 @@ const rasya = {
 ### ORM
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
-### Development Tools
+### Database
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
+
+### Testing
+![Jest](https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+### Cloud & Deployment
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+### Development Tools
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
