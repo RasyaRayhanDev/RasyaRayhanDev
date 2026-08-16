@@ -5,12 +5,25 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
+      - uses: actions/checkout@v4
+
       - uses: DenverCoder1/github-readme-streak-stats@v1.7.0
         with:
           username: RasyaaDev
           output_path: profile/streak.svg
+
+      - name: Commit streak card
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/streak.svg
+          git diff --cached --quiet || git commit -m "Update streak stats"
+          git push
