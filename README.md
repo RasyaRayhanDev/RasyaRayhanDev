@@ -121,10 +121,14 @@ const rasya = {
 ### 🌟 Contribution Highlights
 [![Rasya's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RasyaaDev&theme=tokyo-night&hide_border=true&bg_color=0D1117)](https://github.com/RasyaaDev)
 
-### ⚡ Streak Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=RasyaaDev)](https://git.io/streak-stats)
-
 </div>
+ ### ⚡ Streak Stats
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=RasyaaDev" alt="GitHub Streak" />
+  </a>
+</p>
 
 ## 🤝 Let's Connect
 
