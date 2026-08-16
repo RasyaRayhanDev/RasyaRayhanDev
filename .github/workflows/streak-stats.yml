@@ -1,0 +1,16 @@
+name: GitHub Streak Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: DenverCoder1/github-readme-streak-stats@v1.7.0
+        with:
+          username: RasyaaDev
+          output_path: profile/streak.svg
